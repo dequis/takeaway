@@ -1,14 +1,16 @@
 # takeaway
 
-Small python takeaway android api implementation + order history dumper
+Small unofficial python takeaway android api implementation + order history
+dumper
 
-For takeaway.com/lieferando/thuisbezorgd/etc, but only tested with lieferando
+For takeaway.com/lieferando/thuisbezorgd/etc, but only tested with lieferando,
+and not affiliated with any of those.
 
 Credit for the api reference to https://github.com/TakeawayAPI/
 
 I do not intend to maintain this for anything but my use case (personal
-budgeting), fork it and rename it if you want to make it into a general purpose
-python API.
+budgeting). Fork it and rename it if you want to make it into a general purpose
+python API. Or use the node/php ones that the TakeawayAPI people implemented.
 
 ## Deps
 
